@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  FirstViewController.h
 //  SVBase
 //
 //  Created by aresoft on 15/8/21.
 //  Copyright © 2015年 宋金杰. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "SVBaseViewController.h"
 
-@interface ViewController : UIViewController
-
+@interface FirstViewController : SVBaseViewController
 
 @end
-
